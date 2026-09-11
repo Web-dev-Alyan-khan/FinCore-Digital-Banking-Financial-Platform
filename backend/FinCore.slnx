@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FinCore.Application/FinCore.Application.csproj" />
+  <Project Path="FinCore.Domain/FinCore.Domain.csproj" />
+  <Project Path="FinCore.Infrastructure/FinCore.Infrastructure.csproj" />
+  <Project Path="FinCore.Server/FinCore.Server.csproj" />
+  <Project Path="FinCore.Tests/FinCore.Tests.csproj" />
+</Solution>
