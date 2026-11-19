@@ -480,3 +480,11 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# FinCore Security - Local Secrets
+.env.*
+!.env.example
+*.secrets.json
+*.local.env
+*.local.json
+secrets/
